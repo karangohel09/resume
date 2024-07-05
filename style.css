@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#main{
+    margin-top: 10px;
+    height: 720px;
+    width: 680px;
+    background-color: purple;
+    margin-left: 25%;
+    border: 2px solid purple;
+    box-shadow:  20px 0px 20px 0px black ;
+}
+#info{
+    float: left;
+    margin-left: 20px;
+    color: white;
+}
+#content2{
+    background-color: #fff;
+    width: 60%;
+    height: 640px;
+    float: right;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+#karan{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+#gohel{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+label{
+    padding-left: 35px;
+}
+#webdev{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#education{
+    color: purple;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: underline
+}
+#project{
+    color: purple;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: underline;
+}
+#hcms{
+    font-size: 14px;
+    padding-left: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#img1{
+    height: 110px;
+    width: 110px;
+    margin-top: 40px;
+    margin-left: 50px;
+    border-radius: 50%;
+    padding: 5px;
+    border: 3px solid white;
+}
+h2{
+    font-weight: 100;
+    margin-left: 35px;
+    margin-top: 20px;
+    font-family: helvetica;
+    text-decoration: underline;
+}
+.container{
+    width: 180px;
+    background-color: white;
+    height: 10px;
+    margin-left: 35px;
+    border-radius: 10px;
+}
+.english{
+    width: 70%;
+    background-color: grey;
+    height: 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.hindi{
+    width: 90%;
+    background-color: grey;
+    height: 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.gujarati{
+    width: 100%;
+    background-color: grey;
+    height: 10px;
+    border-radius: 10px;
+}
+.circle{
+    margin-top: 10px;
+    display: inline-flex;
+    flex-direction: column;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+}
+.white{
+    background-color: white;
+}
+img{
+   height: 40px;
+   width: 40px; 
+   border-radius: 50%;
+   margin-left: 30px;
+}
